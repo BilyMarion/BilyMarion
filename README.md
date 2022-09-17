@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BilyMarion
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning how to code with Python
-- 💞️ I’m looking to collaborate on any projects related to cloud computing on AWS and Python
+- 👀 I’m interested in AWS Cloud & UX/UI Design
+- 💞️ I’m looking to collaborate on any projects related to cloud computing on AWS and 
 - 📫 How to reach me www.linkedin.com/in/bily-marion-199b308a
 
 <!---
