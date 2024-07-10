@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BilyMarion
-- 👀 I’m interested in AWS Cloud & UX/UI Design
-- 💞️ I’m looking to collaborate on any projects related to cloud computing on AWS and 
+- 👀 AWS Cloud Enthusiast
 - 📫 How to reach me www.linkedin.com/in/bily-marion-199b308a
 
 <!---
