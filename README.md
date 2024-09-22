@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BilyMarion
-- 👀 AWS Cloud Enthusiast
+- 👀 Cloud Enthusiast
 - 📫 How to reach me www.linkedin.com/in/bily-marion-199b308a
 
 <!---
